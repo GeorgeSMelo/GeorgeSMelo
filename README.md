@@ -11,9 +11,25 @@ Soy un desarrollador el cual le encanta el mundo de la programación, me gusta a
 Lenguajes aprendidos
 
 - ✎ Github 
-- 📲 Mobile developer [Kotlin]. (Junior) 
-- ⌨ Web developer [Html, Css, JavaScript, Angular(Aprendiendo)]. (Junior) 
+- 📲 Mobile developer [Kotlin].
+- ⌨ Web developer [Html, Css, JavaScript, Angular(Aprendiendo)].
 <br>
+
+## 🧰 Software and Tools
+
+<p>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white"></a>
+  <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+</p>
+
+## 🚀 Frameworks & Tools
+
+<p>
+  <a href="#"><img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&logoColor=white"></a>
+  <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black"></a>
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
